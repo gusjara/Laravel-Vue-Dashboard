@@ -25,7 +25,7 @@ Laravel Vue Light Bootstrap Dashboard is built on top of Bootstrap 4, Vuejs and 
 
 ## [Documentation of Light bootstrap dashboard ](https://cristijora.github.io/vue-light-bootstrap-dashboard/documentation/#/buttons) form [Cristi Jora](https://github.com/cristijora)
 
-[CHANGELOG]: ./CHANGELOG.md
-[LICENSE]: ./LICENSE.md
+[CHANGELOG]: CHANGELOG.md
+[LICENSE]: LICENSE.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
